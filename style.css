@@ -1,4 +1,4 @@
-body{
+body, figure{
     margin: 0;
 }
 
@@ -70,6 +70,9 @@ ul{
     margin-bottom: 20px;
 }
 
+.releted-title{
+    margin: 10px;
+}
 table{
     border-collapse: collapse;
 }

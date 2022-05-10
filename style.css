@@ -35,7 +35,7 @@ h1{
 }
 
 .odd{
-    background-color: rgb(100, 148, 220);
+    background-color: rgb(136, 191, 255);
 }
 
 .even{
@@ -56,4 +56,13 @@ h1{
     background-position: center;
     background-size: cover;
     margin-bottom: 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.table-head{
+    background-color: rgb(58, 139, 186);
+    color: white;
 }
